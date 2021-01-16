@@ -1,0 +1,8 @@
+com\sreeja\entities\User.class
+com\sreeja\controller\HomeContoller.class
+com\sreeja\ContactManagerApplication.class
+com\sreeja\controller\UserController.class
+com\sreeja\dao\UserRepository.class
+com\sreeja\helper\Message.class
+com\sreeja\entities\Contact.class
+com\sreeja\config\MyConfig.class
